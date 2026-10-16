@@ -1,6 +1,6 @@
 <!-- El1mir profile README · bilingual dynamic public data sources -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:7CFFCB&height=210&section=header&text=El1mir&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=全栈开发者%20%7C%20Full-stack%20Developer%20%7C%20Vibe%20Coder&descAlignY=63&descSize=18" width="100%" alt="El1mir profile banner / 个人主页横幅" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:7CFFCB&height=210&section=header&text=El1mir&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Vibe%20Coder&descAlignY=63&descSize=18" width="100%" alt="El1mir profile banner / 个人主页横幅" />
 </div>
 
 <div align="center">
@@ -36,6 +36,17 @@
 </div>
 
 <p align="center"><sub>后端工程 · 前端创造 · 全栈交付  /  Backend craft · frontend energy · full-stack delivery</sub></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/1Panel-111827?style=for-the-badge&logo=linux&logoColor=7CFFCB" alt="1Panel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
 ### 🧠 我使用的模型 · Models in my toolkit
 
@@ -77,9 +88,9 @@
 
 | 项目 · Project | 角色 · Role | 公开信号 · Public signal |
 | --- | --- | --- |
-| [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev | [![Stars](https://img.shields.io/github/stars/KouriChat/KouriChat?style=flat-square&color=7CFFCB)](https://github.com/KouriChat/KouriChat/stargazers) [![Contributors](https://img.shields.io/github/contributors/KouriChat/KouriChat?style=flat-square&color=00D4FF)](https://github.com/KouriChat/KouriChat/graphs/contributors) |
-| [BiliNote](https://github.com/El1mir/BiliNote) | Builder / Maintainer · 构建者 / 维护者 | [![Stars](https://img.shields.io/github/stars/El1mir/BiliNote?style=flat-square&color=7CFFCB)](https://github.com/El1mir/BiliNote/stargazers) [![Forks](https://img.shields.io/github/forks/El1mir/BiliNote?style=flat-square&color=00D4FF)](https://github.com/El1mir/BiliNote/network/members) |
-| [Billion Context](https://github.com/ranxianglei/billion-context) | Contributor · 贡献者 | [![Stars](https://img.shields.io/github/stars/ranxianglei/billion-context?style=flat-square&color=7CFFCB)](https://github.com/ranxianglei/billion-context/stargazers) [![Contributors](https://img.shields.io/github/contributors/ranxianglei/billion-context?style=flat-square&color=00D4FF)](https://github.com/ranxianglei/billion-context/graphs/contributors) |
+| [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev · 核心开发 | [![Stars](https://img.shields.io/github/stars/KouriChat/KouriChat?style=flat-square&color=7CFFCB)](https://github.com/KouriChat/KouriChat/stargazers) [![Contributors](https://img.shields.io/github/contributors/KouriChat/KouriChat?style=flat-square&color=00D4FF)](https://github.com/KouriChat/KouriChat/graphs/contributors) |
+| [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 | [![Stars](https://img.shields.io/github/stars/El1mir/BiliNote?style=flat-square&color=7CFFCB)](https://github.com/El1mir/BiliNote/stargazers) [![Forks](https://img.shields.io/github/forks/El1mir/BiliNote?style=flat-square&color=00D4FF)](https://github.com/El1mir/BiliNote/network/members) |
+| [Billion Context](https://github.com/ranxianglei/billion-context) | Major achievement · 主要成就 / Contributor · 贡献者 | [![Stars](https://img.shields.io/github/stars/ranxianglei/billion-context?style=flat-square&color=7CFFCB)](https://github.com/ranxianglei/billion-context/stargazers) [![Contributors](https://img.shields.io/github/contributors/ranxianglei/billion-context?style=flat-square&color=00D4FF)](https://github.com/ranxianglei/billion-context/graphs/contributors) |
 
 <details>
 <summary>🧭 贡献类型 · Contribution types</summary>
@@ -115,9 +126,15 @@
 > 我是国内 CryoAlchemists 论坛维护者，负责维护社区空间与内容秩序。  
 > I help maintain the CryoAlchemists forum and its community space in China.
 
-## ☕ Vibe Coffee 用量 · Vibe Coffee usage
+## ☕ 模型与 Vibe Coffee · Models + Vibe Coffee usage
 
 <div align="center">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/GLM-111827?style=for-the-badge&logo=zhipu&logoColor=white" alt="GLM" />
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <br />
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/token" alt="Vibe Coffee token usage / Token 用量" /></a>
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/cost" alt="Vibe Coffee cost usage / 成本用量" /></a>
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/hours" alt="Vibe Coffee hours usage / 小时用量" /></a>
@@ -126,27 +143,10 @@
 
 <p align="center"><sub>实时徽标：Token · Cost · Hours ｜ 点击 Vibe Usage 查看分时活跃 · Live badges plus the Vibe Usage dashboard</sub></p>
 
-### 📈 分时活跃快照 · Activity snapshot
+### 📡 实时用量入口 · Live usage entry
 
-> VibeCafé 当前公开的 Usage 页面提供按日 Token 数据（不是小时级 API）；下面保留最近公开记录，并链接到实时面板。  
-> The public Usage page currently exposes daily token data rather than a stable hourly API; the snapshot below is paired with the live dashboard.
-
-| 日期 · Date | Token activity · Token 活跃量 |
-| --- | ---: |
-| 2026-10-01 | 49.6M |
-| 2026-10-02 | 545.1M |
-| 2026-10-03 | 314.3M |
-| 2026-10-04 | 531.8M |
-| 2026-10-05 | 461.0M |
-| 2026-10-06 | 370.0M |
-| 2026-10-13 | 143.0M |
-| 2026-10-14 | 654.5M |
-| 2026-10-15 | 408.5M |
-| 2026-10-16 | 339.5M |
-
-[打开 VibeCafé Vibe Usage 实时面板 · Open the live Vibe Usage dashboard](https://vibecafe.ai/@vibe_a261ed)
-
-> 数据来源 · Source: [VibeCafé @vibe_a261ed](https://vibecafe.ai/@vibe_a261ed)，页面实时更新。
+> VibeCafé 的实时徽标与 Usage 入口放在模型工具链中，点击即可查看官方热力图和分时活跃。  
+> VibeCafé badges and the Usage entry live beside the model toolkit; open it for the official activity heatmap.
 
 ## 📬 联系我 · Say hello
 
