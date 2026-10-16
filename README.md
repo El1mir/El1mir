@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/El1mir"><img src="https://img.shields.io/badge/GitHub-El1mir-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev%20%C2%B7%20%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
-  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Major%20Achievement-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context major achievement" /></a>
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Contributor%20%C2%B7%20%E8%B4%A1%E7%8C%AE%E8%80%85-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context contributor" /></a>
   <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-38BDF8?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
 </div>
 
@@ -19,36 +19,55 @@
 > 我喜欢把想法做成真正可用的软件，关注体验、性能和开源协作。  
 > I turn ideas into useful software with a focus on experience, performance, and open-source collaboration.
 
-- 🔭 **KouriChat Coredev**（自 2024 年起）· **Coredev since 2024**
-- 🌌 **Billion Context Contributor**（自 2026 年起）· **Contributor since 2026**
-- 🧩 **DSH Better Display Contributor** 与 **DeepSeek Harness 社区生态贡献者**  · **Contributor to DSH Better Display and the DeepSeek Harness ecosystem**
-- 🧊 **CryoAlchemists 国内论坛维护者** · **Maintainer of the CryoAlchemists community forum**
-- 🧪 2020 年开始编程 · **Coding since 2020**
-- 🤝 欢迎有意义的开源协作 · **Open to meaningful open-source collaboration**
-- ☕ Vibe Coffee 驱动 · **Powered by Vibe Coffee**
+## 🧩 我的贡献 · My contributions
+
+<div align="center">
+  <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev%20%C2%B7%20%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Contributor%20%C2%B7%20%E8%B4%A1%E7%8C%AE%E8%80%85-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context contributor" /></a>
+  <br />
+  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
+  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek%20Harness-Ecosystem%20Contributor-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness ecosystem contributor" /></a>
+  <br />
+  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
+</div>
+
+## 🛠️ 当前状态 · Now building
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Optimizing+DSH+workflow;Maintaining+DSH+router+suites;Developing+KouriChat+1.5;Developing+Kouri+Note" alt="Current projects animated status / 当前项目动态状态" />
+</div>
+
+## 📬 联系我 · Say hello
+
+<div align="center">
+  <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/QQ-2247335689-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 2247335689" /></a>
+  <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/Email-2247335689%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2247335689 at qq.com" /></a>
+  <a href="mailto:Eliver52@outlook.com"><img src="https://img.shields.io/badge/Email-Eliver52%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Eliver52 at outlook.com" /></a>
+</div>
 
 ## ⚡ 技术栈 · Stack I use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,git,github,docker,kubernetes,nginx,linux,mysql,sqlite,mongodb,postgresql,redis&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Git, GitHub, Docker, Kubernetes, Nginx, Linux, MySQL, SQLite, MongoDB, PostgreSQL, Redis / Technology stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,git,github,docker,kubernetes,nginx,linux,mysql,sqlite,mongodb,postgresql,redis,kafka,rocketmq&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Git, GitHub, Docker, Kubernetes, Nginx, Linux, MySQL, SQLite, MongoDB, PostgreSQL, Redis, Kafka, RocketMQ / Technology stack" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Gin-Go%20Web%20Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/Milvus-Vector%20Database-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus vector database" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant vector database" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gin,milvus,qdrant&perline=3" alt="Gin, Milvus, Qdrant" />
   <img src="https://img.shields.io/badge/1Panel-Server%20Panel-111827?style=for-the-badge&logo=linux&logoColor=7CFFCB" alt="1Panel" />
 </div>
 
 ## 🧠 模型与 Vibe Coffee · Models + Vibe Coffee
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/GLM-111827?style=for-the-badge&logo=zhipu&logoColor=white" alt="GLM" />
-  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok,deepseek&perline=5" alt="OpenAI ChatGPT, Claude, Gemini, Grok, DeepSeek" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" height="44" alt="Qwen" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/zhipu-color.svg" height="44" alt="GLM / Zhipu" />
+</div>
+
+<div align="center">
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/token" alt="Vibe Coffee token usage / Token 用量" /></a>
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/cost" alt="Vibe Coffee cost usage / 成本用量" /></a>
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/hours" alt="Vibe Coffee hours usage / 小时用量" /></a>
@@ -68,7 +87,12 @@
 ### 代码构成 · Code mix
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=compact&hide_border=true&bg_color=00000000&title_color=7CFFCB&text_color=CBD5E1&langs_count=10" height="180" alt="Most used programming languages / 常用编程语言" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El1mir&theme=github_dark" width="48%" alt="Top languages by commit / 按提交统计的语言" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El1mir&theme=github_dark" width="48%" alt="Top languages by repository / 按仓库统计的语言" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=compact&hide_border=true&bg_color=00000000&title_color=7CFFCB&text_color=CBD5E1&langs_count=10" height="180" alt="Most used languages / 最常用语言" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" height="180" alt="Productive coding time / 高效编码时间" />
 </div>
 
@@ -81,13 +105,15 @@
 
 <div align="center">
   <a href="https://github.com/ranxianglei/billion-context"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranxianglei&repo=billion-context&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="Billion Context repository card / Billion Context 项目卡片" /></a>
+  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aa2246740&repo=dsh-better-display&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="DSH Better Display repository card / DSH Better Display 项目卡片" /></a>
 </div>
 
 | 项目 · Project | 角色 · Role |
 | --- | --- |
 | [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev · 核心开发 |
 | [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 |
-| [Billion Context](https://github.com/ranxianglei/billion-context) | Major achievement · 主要成就 / Contributor · 贡献者 |
+| [Billion Context](https://github.com/ranxianglei/billion-context) | Contributor · 贡献者 |
+| [DSH Better Display](https://github.com/aa2246740/dsh-better-display) | Contributor · 贡献者 |
 
 ## 🧭 个人时间线 · Timeline
 
@@ -95,30 +121,8 @@
 | --- | --- |
 | 2020 | 开始编程 · Started programming |
 | 2024 | 加入 KouriChat，成为 Coredev · Joined KouriChat as Coredev |
-| 2026 | Billion Context 主要成就；参与 DSH Better Display 与 DeepSeek Harness 社区生态 · Billion Context major achievement; contributed to DSH Better Display and the DeepSeek Harness ecosystem |
+| 2026 | 参与 Billion Context、DSH Better Display 与 DeepSeek Harness 社区生态 · Contributed to Billion Context, DSH Better Display, and the DeepSeek Harness ecosystem |
 | Now | 维护 CryoAlchemists，优化 DSH 工作流，开发新工具 · Maintaining the forum, improving DSH workflows, and shipping tools |
-
-## 🛠️ 当前状态 · Now building
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Optimizing+DSH+workflow;Maintaining+DSH+router+suites;Developing+KouriChat+1.5;Developing+Kouri+Note" alt="Current projects animated status / 当前项目动态状态" />
-</div>
-
-## 🧩 我的贡献 · My contributions
-
-<div align="center">
-  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
-  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek%20Harness-Ecosystem%20Contributor-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness ecosystem contributor" /></a>
-  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%20Forum-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
-</div>
-
-## 📬 联系我 · Say hello
-
-<div align="center">
-  <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/QQ-2247335689-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 2247335689" /></a>
-  <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/Email-2247335689%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2247335689 at qq.com" /></a>
-  <a href="mailto:Eliver52@outlook.com"><img src="https://img.shields.io/badge/Email-Eliver52%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Eliver52 at outlook.com" /></a>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=760&lines=Welcome+to+El1mir%27s+code+space;Ideas+to+working+software;Let%27s+build+open+source+together" alt="Bilingual visitor welcome animation / 双语访客欢迎动画" />
