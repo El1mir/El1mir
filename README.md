@@ -6,8 +6,7 @@
 <div align="center">
   <a href="https://github.com/El1mir"><img src="https://img.shields.io/badge/GitHub-El1mir-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev-7C3AED?style=for-the-badge&logo=github" alt="KouriChat Coredev" /></a>
-  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Contributor-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context Contributor" /></a>
-  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Major%20Achievement-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context major achievement" /></a>
   <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-论坛维护者%20%2F%20Forum%20Maintainer-38BDF8?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
 </div>
 
@@ -32,23 +31,12 @@
 ## ⚡ 技术栈 · Stack I use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,gin,git,github,docker&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Gin, GitHub, Docker / Technology stack" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,gin,git,github,docker,kubernetes,nginx,linux,mysql,sqlite,mongodb,postgresql,redis&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Gin, GitHub, Docker, Kubernetes, Nginx, MySQL, SQLite, MongoDB, PostgreSQL, Redis / Technology stack" />
 </div>
 
 <p align="center"><sub>后端工程 · 前端创造 · 全栈交付  /  Backend craft · frontend energy · full-stack delivery</sub></p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/1Panel-111827?style=for-the-badge&logo=linux&logoColor=7CFFCB" alt="1Panel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
-
-### 🧠 我使用的模型 · Models in my toolkit
+## 🧠 模型与 Vibe Coffee · Models + Vibe Coffee
 
 <div align="center">
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
@@ -56,8 +44,16 @@
   <img src="https://img.shields.io/badge/GLM-111827?style=for-the-badge&logo=zhipu&logoColor=white" alt="GLM" />
   <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <br />
+  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/token" alt="Vibe Coffee token usage / Token 用量" /></a>
+  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/cost" alt="Vibe Coffee cost usage / 成本用量" /></a>
+  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/hours" alt="Vibe Coffee hours usage / 小时用量" /></a>
 </div>
-<p align="center"><sub>徽标只用于展示工具偏好，打字机动效仅用于状态文案。  /  Badges show tool preferences; typing motion is reserved for status copy.</sub></p>
+
+<p align="center"><sub>模型工具链与 Vibe Coffee 实时用量 · Model toolkit + live Vibe Coffee usage</sub></p>
+
+> Token、Cost、Hours 徽标来自 VibeCafé 公开主页，会随用量更新。  
+> Token, Cost, and Hours badges come from the public VibeCafé profile and update with usage.
 
 ## 📊 贡献驾驶舱 · Contribution cockpit
 
@@ -92,63 +88,32 @@
 | [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 | [![Stars](https://img.shields.io/github/stars/El1mir/BiliNote?style=flat-square&color=7CFFCB)](https://github.com/El1mir/BiliNote/stargazers) [![Forks](https://img.shields.io/github/forks/El1mir/BiliNote?style=flat-square&color=00D4FF)](https://github.com/El1mir/BiliNote/network/members) |
 | [Billion Context](https://github.com/ranxianglei/billion-context) | Major achievement · 主要成就 / Contributor · 贡献者 | [![Stars](https://img.shields.io/github/stars/ranxianglei/billion-context?style=flat-square&color=7CFFCB)](https://github.com/ranxianglei/billion-context/stargazers) [![Contributors](https://img.shields.io/github/contributors/ranxianglei/billion-context?style=flat-square&color=00D4FF)](https://github.com/ranxianglei/billion-context/graphs/contributors) |
 
-<details>
-<summary>🧭 贡献类型 · Contribution types</summary>
-<br />
-
-**产品工程 · Product engineering**：功能开发 · bug 修复 · API 设计 · UI 实现 · 文档 · Code review · 开源协作  
-**技术与运行时 · Languages & runtimes**：C# / .NET · Go · Python · Java · TypeScript · JavaScript · HTML / CSS  
-**框架 · Frameworks**：ASP.NET · FastAPI · Gin · React · Vue · Nuxt · Next.js
-
-</details>
-
 ## 🧭 个人时间线 · Timeline
 
 | 年份 · Year | 里程碑 · Milestone |
 | --- | --- |
 | 2020 | 开始编程 · Started programming |
 | 2024 | 加入 KouriChat，成为 Coredev · Joined KouriChat as Coredev |
-| 2026 | 参与 Billion Context、DSH Better Display 与 DeepSeek Harness 社区生态 · Contributed to the ecosystem |
+| 2026 | Billion Context 主要成就；参与 DSH Better Display 与 DeepSeek Harness 社区生态 · Billion Context major achievement; contributed to DSH Better Display and the DeepSeek Harness ecosystem |
 | Now | 维护 CryoAlchemists，优化 DSH 工作流，开发新工具 · Maintaining the forum, improving DSH workflows, and shipping tools |
 
 ## 🛠️ 当前状态 · Now building
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=优化+DSH+工作流+%E2%86%92+Optimizing+DSH+workflow;维护+DSH+router+suites+%E2%86%92+Maintaining+router+suites;开发+KouriChat+1.5+%E2%86%92+Developing+KouriChat+1.5;开发+Kouri+Note+%E2%86%92+Developing+Kouri+Note" alt="Current projects animated status / 当前项目动态状态" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Optimizing+DSH+workflow;Maintaining+DSH+router+suites;Developing+KouriChat+1.5;Developing+Kouri+Note" alt="Current projects animated status / 当前项目动态状态" />
 </div>
 
-## 🧊 社区身份 · Community role
+## 🧩 我的贡献 · My contributions
 
 <div align="center">
+  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
   <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-论坛%20Forum-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="Visit CryoAlchemists forum / 访问 CryoAlchemists 论坛" /></a>
 </div>
 
-> 我是国内 CryoAlchemists 论坛维护者，负责维护社区空间与内容秩序。  
-> I help maintain the CryoAlchemists forum and its community space in China.
-
-## ☕ 模型与 Vibe Coffee · Models + Vibe Coffee usage
-
-<div align="center">
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/GLM-111827?style=for-the-badge&logo=zhipu&logoColor=white" alt="GLM" />
-  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <br />
-  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/token" alt="Vibe Coffee token usage / Token 用量" /></a>
-  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/cost" alt="Vibe Coffee cost usage / 成本用量" /></a>
-  <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/hours" alt="Vibe Coffee hours usage / 小时用量" /></a>
-  <a href="https://vibecafe.ai/@vibe_a261ed/vibe-usage"><img src="https://img.shields.io/badge/Vibe%20Usage-分时活跃%20%2F%20Open%20dashboard-7CFFCB?style=for-the-badge&logo=clockify&logoColor=111827" alt="Open Vibe Usage dashboard / 打开分时活跃面板" /></a>
-</div>
-
-<p align="center"><sub>实时徽标：Token · Cost · Hours ｜ 点击 Vibe Usage 查看分时活跃 · Live badges plus the Vibe Usage dashboard</sub></p>
-
-### 📡 实时用量入口 · Live usage entry
-
-> VibeCafé 的实时徽标与 Usage 入口放在模型工具链中，点击即可查看官方热力图和分时活跃。  
-> VibeCafé badges and the Usage entry live beside the model toolkit; open it for the official activity heatmap.
-
-## 📬 联系我 · Say hello
+> **我的贡献 · My contributions**  
+> DSH Better Display Contributor · DeepSeek Harness community ecosystem contributor · CryoAlchemists forum maintainer  
+> DSH Better Display 贡献者 · DeepSeek Harness 社区生态贡献者 · CryoAlchemists 论坛维护者  
+> 论坛入口 · Forum: [cryoalchemists.siphot.com](https://cryoalchemists.siphot.com)
 
 <div align="center">
   <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/QQ-2247335689-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 2247335689" /></a>
@@ -157,7 +122,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=760&lines=欢迎来到+El1mir+的代码空间+%E2%86%92+Welcome+to+my+code+space;想法+%E2%86%92+界面+%E2%86%92+可用软件+%E2%86%92+Ideas+to+working+software;一起构建开源未来+%E2%86%92+Let's+build+open+source+together" alt="Bilingual visitor welcome animation / 双语访客欢迎动画" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=760&lines=Welcome+to+El1mir%27s+code+space;Ideas+to+working+software;Let%27s+build+open+source+together" alt="Bilingual visitor welcome animation / 双语访客欢迎动画" />
 </div>
 
 <div align="center">
