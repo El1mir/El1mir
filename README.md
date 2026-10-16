@@ -1,13 +1,12 @@
-<!-- El1mir profile README · bilingual dynamic public data sources -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:7CFFCB&height=210&section=header&text=El1mir&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Vibe%20Coder&descAlignY=63&descSize=18" width="100%" alt="El1mir profile banner / 个人主页横幅" />
 </div>
 
 <div align="center">
   <a href="https://github.com/El1mir"><img src="https://img.shields.io/badge/GitHub-El1mir-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev-7C3AED?style=for-the-badge&logo=github" alt="KouriChat Coredev" /></a>
+  <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev%20%C2%B7%20%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
   <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Major%20Achievement-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context major achievement" /></a>
-  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-论坛维护者%20%2F%20Forum%20Maintainer-38BDF8?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
+  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-38BDF8?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
 </div>
 
 <br />
@@ -31,10 +30,15 @@
 ## ⚡ 技术栈 · Stack I use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,gin,git,github,docker,kubernetes,nginx,linux,mysql,sqlite,mongodb,postgresql,redis&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Gin, GitHub, Docker, Kubernetes, Nginx, MySQL, SQLite, MongoDB, PostgreSQL, Redis / Technology stack" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,py,java,html,css,js,ts,react,vue,nuxt,nextjs,fastapi,git,github,docker,kubernetes,nginx,linux,mysql,sqlite,mongodb,postgresql,redis&perline=9" alt="技术栈：.NET, C#, Go, Python, Java, HTML, CSS, JavaScript, TypeScript, React, Vue, Nuxt, Next.js, FastAPI, Git, GitHub, Docker, Kubernetes, Nginx, Linux, MySQL, SQLite, MongoDB, PostgreSQL, Redis / Technology stack" />
 </div>
 
-<p align="center"><sub>后端工程 · 前端创造 · 全栈交付  /  Backend craft · frontend energy · full-stack delivery</sub></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Gin-Go%20Web%20Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Milvus-Vector%20Database-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus vector database" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant vector database" />
+  <img src="https://img.shields.io/badge/1Panel-Server%20Panel-111827?style=for-the-badge&logo=linux&logoColor=7CFFCB" alt="1Panel" />
+</div>
 
 ## 🧠 模型与 Vibe Coffee · Models + Vibe Coffee
 
@@ -50,19 +54,15 @@
   <a href="https://vibecafe.ai/@vibe_a261ed?ref=badge"><img src="https://vibecafe.ai/@vibe_a261ed/badge/hours" alt="Vibe Coffee hours usage / 小时用量" /></a>
 </div>
 
-<p align="center"><sub>模型工具链与 Vibe Coffee 实时用量 · Model toolkit + live Vibe Coffee usage</sub></p>
-
-> Token、Cost、Hours 徽标来自 VibeCafé 公开主页，会随用量更新。  
-> Token, Cost, and Hours badges come from the public VibeCafé profile and update with usage.
-
 ## 📊 贡献驾驶舱 · Contribution cockpit
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=El1mir&show_icons=true&hide_border=true&bg_color=00000000&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1&include_all_commits=true&count_private=true" height="175" alt="GitHub overview statistics / GitHub 总览统计" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=El1mir&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B9D&currStreakLabel=7CFFCB&sideLabels=CBD5E1&dates=94A3B8" height="175" alt="GitHub contribution streak / GitHub 连续贡献" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=El1mir&bg_color=00000000&color=CBD5E1&line=00D4FF&point=7CFFCB&area=true&hide_border=true" width="96%" alt="GitHub activity graph / GitHub 活动图" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El1mir&theme=github_dark" width="96%" alt="GitHub profile details / GitHub 贡献详情" />
 </div>
 
 ### 代码构成 · Code mix
@@ -72,9 +72,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" height="180" alt="Productive coding time / 高效编码时间" />
 </div>
 
-> **代码行数说明 · Code-line note:** GitHub 没有跨仓库统一可靠的公开“贡献总行数”接口，因此这里展示可验证的 commits、贡献活动、语言构成和编码时间，不把估算值伪装成事实。  
-> GitHub does not expose one reliable public total-lines metric across repositories, so this profile shows verifiable signals instead of presenting estimates as facts.
-
 ## 🚀 精选项目 · Selected projects
 
 <div align="center">
@@ -82,11 +79,15 @@
   <a href="https://github.com/El1mir/BiliNote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El1mir&repo=BiliNote&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="BiliNote repository card / BiliNote 项目卡片" /></a>
 </div>
 
-| 项目 · Project | 角色 · Role | 公开信号 · Public signal |
-| --- | --- | --- |
-| [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev · 核心开发 | [![Stars](https://img.shields.io/github/stars/KouriChat/KouriChat?style=flat-square&color=7CFFCB)](https://github.com/KouriChat/KouriChat/stargazers) [![Contributors](https://img.shields.io/github/contributors/KouriChat/KouriChat?style=flat-square&color=00D4FF)](https://github.com/KouriChat/KouriChat/graphs/contributors) |
-| [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 | [![Stars](https://img.shields.io/github/stars/El1mir/BiliNote?style=flat-square&color=7CFFCB)](https://github.com/El1mir/BiliNote/stargazers) [![Forks](https://img.shields.io/github/forks/El1mir/BiliNote?style=flat-square&color=00D4FF)](https://github.com/El1mir/BiliNote/network/members) |
-| [Billion Context](https://github.com/ranxianglei/billion-context) | Major achievement · 主要成就 / Contributor · 贡献者 | [![Stars](https://img.shields.io/github/stars/ranxianglei/billion-context?style=flat-square&color=7CFFCB)](https://github.com/ranxianglei/billion-context/stargazers) [![Contributors](https://img.shields.io/github/contributors/ranxianglei/billion-context?style=flat-square&color=00D4FF)](https://github.com/ranxianglei/billion-context/graphs/contributors) |
+<div align="center">
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranxianglei&repo=billion-context&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="Billion Context repository card / Billion Context 项目卡片" /></a>
+</div>
+
+| 项目 · Project | 角色 · Role |
+| --- | --- |
+| [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev · 核心开发 |
+| [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 |
+| [Billion Context](https://github.com/ranxianglei/billion-context) | Major achievement · 主要成就 / Contributor · 贡献者 |
 
 ## 🧭 个人时间线 · Timeline
 
@@ -107,13 +108,11 @@
 
 <div align="center">
   <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
-  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-论坛%20Forum-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="Visit CryoAlchemists forum / 访问 CryoAlchemists 论坛" /></a>
+  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek%20Harness-Ecosystem%20Contributor-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness ecosystem contributor" /></a>
+  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%20Forum-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
 </div>
 
-> **我的贡献 · My contributions**  
-> DSH Better Display Contributor · DeepSeek Harness community ecosystem contributor · CryoAlchemists forum maintainer  
-> DSH Better Display 贡献者 · DeepSeek Harness 社区生态贡献者 · CryoAlchemists 论坛维护者  
-> 论坛入口 · Forum: [cryoalchemists.siphot.com](https://cryoalchemists.siphot.com)
+## 📬 联系我 · Say hello
 
 <div align="center">
   <a href="mailto:2247335689@qq.com"><img src="https://img.shields.io/badge/QQ-2247335689-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 2247335689" /></a>
@@ -126,7 +125,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/El1mir?tab=repositories"><img src="https://img.shields.io/badge/探索我的仓库%20%2F%20Explore%20repositories-111827?style=for-the-badge&logo=github&logoColor=7CFFCB" alt="Explore repositories / 探索仓库" /></a>
+  <a href="https://github.com/El1mir?tab=repositories"><img src="https://img.shields.io/badge/%E6%8E%A2%E7%B4%A2%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%20%2F%20Explore%20repositories-111827?style=for-the-badge&logo=github&logoColor=7CFFCB" alt="Explore repositories / 探索仓库" /></a>
 </div>
 
 <br />
