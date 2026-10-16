@@ -6,7 +6,10 @@
   <a href="https://github.com/El1mir"><img src="https://img.shields.io/badge/GitHub-El1mir-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev%20%C2%B7%20%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
   <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Contributor%20%C2%B7%20%E8%B4%A1%E7%8C%AE%E8%80%85-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context contributor" /></a>
-  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-38BDF8?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
+  <br />
+  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
+  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek%20Harness-Ecosystem%20Contributor-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness ecosystem contributor" /></a>
+  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
 </div>
 
 <br />
@@ -18,18 +21,6 @@
 >
 > 我喜欢把想法做成真正可用的软件，关注体验、性能和开源协作。  
 > I turn ideas into useful software with a focus on experience, performance, and open-source collaboration.
-
-## 🧩 我的贡献 · My contributions
-
-<div align="center">
-  <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-Coredev%20%C2%B7%20%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
-  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-Contributor%20%C2%B7%20%E8%B4%A1%E7%8C%AE%E8%80%85-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Billion Context contributor" /></a>
-  <br />
-  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://img.shields.io/badge/DSH%20Better%20Display-Contributor-F97316?style=for-the-badge&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
-  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek%20Harness-Ecosystem%20Contributor-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness ecosystem contributor" /></a>
-  <br />
-  <a href="https://cryoalchemists.siphot.com"><img src="https://img.shields.io/badge/CryoAlchemists-%E8%AE%BA%E5%9D%9B%E7%BB%B4%E6%8A%A4%E8%80%85%20%2F%20Forum%20Maintainer-0EA5E9?style=for-the-badge&logo=discourse&logoColor=white" alt="CryoAlchemists forum maintainer" /></a>
-</div>
 
 ## 🛠️ 当前状态 · Now building
 
@@ -63,8 +54,8 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" height="44" alt="Qwen" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/zhipu-color.svg" height="44" alt="GLM / Zhipu" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" width="44" height="44" alt="Qwen" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/zhipu-color.svg" width="44" height="44" alt="GLM / Zhipu" />
 </div>
 
 <div align="center">
