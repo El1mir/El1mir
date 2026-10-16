@@ -123,6 +123,19 @@
   <a href="https://github.com/El1mir?tab=repositories"><img src="https://img.shields.io/badge/%E6%8E%A2%E7%B4%A2%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%20%2F%20Explore%20repositories-111827?style=for-the-badge&logo=github&logoColor=7CFFCB" alt="Explore repositories / 探索仓库" /></a>
 </div>
 
+## 💜 致谢 · Acknowledgements
+
+<div align="center">
+  <a href="https://api.kourichat.com"><img src="https://img.shields.io/badge/Kouri%20API-api.kourichat.com-7C3AED?style=for-the-badge&labelColor=111827" alt="Kouri API" /></a>
+</div>
+
+<div align="center">
+
+> 感谢 **[Kouri API](https://api.kourichat.com)** 为我的 Vibe Coding 提供 Token 支持。  
+> Thanks to **[Kouri API](https://api.kourichat.com)** for powering my vibe coding with token support.
+
+</div>
+
 <br />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFFCB,50:00D4FF,100:6C63FF&height=110&section=footer" width="100%" alt="Profile footer / 主页页脚" />
