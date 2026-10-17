@@ -67,8 +67,8 @@
 ## 📊 贡献驾驶舱 · Contribution cockpit
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=El1mir&show_icons=true&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub 总览：提交 / PR 合并率 / Issue / 获星 / Overview statistics" />
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=El1mir&hide_border=false&background=0D1117&border=2E343B&stroke=2E343B&border_radius=5&ring=6C63FF&fire=FF6B9D&currStreakLabel=7CFFCB&sideLabels=CBD5E1&dates=94A3B8" alt="连续贡献天数 / Contribution streak" />
+  <img height="186" src="https://github-readme-stats.vercel.app/api?username=El1mir&show_icons=true&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub 总览：提交 / PR 合并率 / Issue / 获星 / Overview statistics" />
+  <img height="186" src="https://github-readme-streak-stats.herokuapp.com/?user=El1mir&hide_border=false&background=0D1117&border=2E343B&stroke=2E343B&border_radius=5&ring=6C63FF&fire=FF6B9D&currStreakLabel=7CFFCB&sideLabels=CBD5E1&dates=94A3B8" alt="连续贡献天数 / Contribution streak" />
 </div>
 
 <div align="center">
