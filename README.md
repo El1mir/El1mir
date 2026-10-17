@@ -67,36 +67,55 @@
 ## 📊 贡献驾驶舱 · Contribution cockpit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El1mir&show_icons=true&hide_border=true&bg_color=00000000&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1&include_all_commits=true&count_private=true" height="175" alt="GitHub overview statistics / GitHub 总览统计" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=El1mir&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B9D&currStreakLabel=7CFFCB&sideLabels=CBD5E1&dates=94A3B8" height="175" alt="GitHub contribution streak / GitHub 连续贡献" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=El1mir&show_icons=true&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub 总览：提交 / PR 合并率 / Issue / 获星 / Overview statistics" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=El1mir&hide_border=false&background=0D1117&border=2E343B&stroke=2E343B&border_radius=5&ring=6C63FF&fire=FF6B9D&currStreakLabel=7CFFCB&sideLabels=CBD5E1&dates=94A3B8" alt="连续贡献天数 / Contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El1mir&theme=github_dark" width="96%" alt="GitHub profile details / GitHub 贡献详情" />
+  <img width="844" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El1mir&theme=github_dark" alt="近一年贡献热力图 / Contribution heatmap" />
 </div>
 
-### 代码构成 · Code mix
+### 🧬 代码构成 · Code mix
+
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=donut&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&text_color=CBD5E1&langs_count=8" alt="语言占比环形图 / Language share donut" /></td>
+    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El1mir&theme=github_dark" alt="按提交统计的语言 / Top languages by commit" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El1mir&theme=github_dark" alt="按仓库统计的语言 / Top languages by repository" /></td>
+    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" alt="高效编码时段（UTC+8）/ Productive coding hours" /></td>
+  </tr>
+</table>
+
+## ⭐ 星标雷达 · Star radar
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El1mir&theme=github_dark" width="48%" alt="Top languages by commit / 按提交统计的语言" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El1mir&theme=github_dark" width="48%" alt="Top languages by repository / 按仓库统计的语言" />
+  <a href="https://github.com/El1mir"><img width="844" src="./assets/star-radar.svg" alt="主要参与项目的星标统计（KouriChat、Billion Context、DSH Better Display、WxConnector）与总星数 / Star counts across main projects" /></a>
 </div>
 
+> 汇总我主要参与 / 维护的开源项目星标，每日由 GitHub Actions 自动刷新。  
+> Star counts across the open-source projects I maintain or contribute to — refreshed daily by GitHub Actions.
+
+<details>
+<summary><b>📈 Star 增长趋势 · Star growth</b></summary>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=compact&hide_border=true&bg_color=00000000&title_color=7CFFCB&text_color=CBD5E1&langs_count=10" height="180" alt="Most used languages / 最常用语言" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" height="180" alt="Productive coding time / 高效编码时间" />
+  <a href="https://star-history.com/#KouriChat/KouriChat&ranxianglei/billion-context&aa2246740/dsh-better-display&El1mir/WxConnector&Date"><img width="820" src="https://api.star-history.com/svg?repos=KouriChat/KouriChat,ranxianglei/billion-context,aa2246740/dsh-better-display,El1mir/WxConnector&type=Date&theme=dark" alt="主要项目星标增长趋势 / Star history across main projects" /></a>
 </div>
+
+</details>
 
 ## 🚀 精选项目 · Selected projects
 
 <div align="center">
-  <a href="https://github.com/KouriChat/KouriChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KouriChat&repo=KouriChat&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="KouriChat repository card / KouriChat 项目卡片" /></a>
-  <a href="https://github.com/El1mir/BiliNote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El1mir&repo=BiliNote&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="BiliNote repository card / BiliNote 项目卡片" /></a>
+  <a href="https://github.com/KouriChat/KouriChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KouriChat&repo=KouriChat&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="KouriChat repository card / KouriChat 项目卡片" /></a>
+  <a href="https://github.com/El1mir/BiliNote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El1mir&repo=BiliNote&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="BiliNote repository card / BiliNote 项目卡片" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ranxianglei/billion-context"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranxianglei&repo=billion-context&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="Billion Context repository card / Billion Context 项目卡片" /></a>
-  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aa2246740&repo=dsh-better-display&theme=transparent&hide_border=true&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="DSH Better Display repository card / DSH Better Display 项目卡片" /></a>
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranxianglei&repo=billion-context&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="Billion Context repository card / Billion Context 项目卡片" /></a>
+  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aa2246740&repo=dsh-better-display&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="DSH Better Display repository card / DSH Better Display 项目卡片" /></a>
 </div>
 
 | 项目 · Project | 角色 · Role |

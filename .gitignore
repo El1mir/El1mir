@@ -1,0 +1,7 @@
+# local verification artifacts (screenshots, temp chrome profiles, node_modules for preview tooling)
+.verify/
+prof1/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
