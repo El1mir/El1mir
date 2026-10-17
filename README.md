@@ -77,16 +77,15 @@
 
 ### 🧬 代码构成 · Code mix
 
-<table align="center" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=donut&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&text_color=CBD5E1&langs_count=8" alt="语言占比环形图 / Language share donut" /></td>
-    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El1mir&theme=github_dark" alt="按提交统计的语言 / Top languages by commit" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El1mir&theme=github_dark" alt="按仓库统计的语言 / Top languages by repository" /></td>
-    <td align="center"><img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" alt="高效编码时段（UTC+8）/ Productive coding hours" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El1mir&layout=donut&hide_border=false&bg_color=0D1117&border_color=2E343B&radius=5&title_color=7CFFCB&text_color=CBD5E1&langs_count=8" alt="语言占比环形图 / Language share donut" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El1mir&theme=github_dark" alt="按提交统计的语言 / Top languages by commit" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El1mir&theme=github_dark" alt="按仓库统计的语言 / Top languages by repository" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El1mir&theme=github_dark&utcOffset=8" alt="高效编码时段（UTC+8）/ Productive coding hours" />
+</div>
 
 ## ⭐ 星标雷达 · Star radar
 
