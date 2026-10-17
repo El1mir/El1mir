@@ -108,21 +108,15 @@
 ## 🚀 精选项目 · Selected projects
 
 <div align="center">
-  <a href="https://github.com/KouriChat/KouriChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KouriChat&repo=KouriChat&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="KouriChat repository card / KouriChat 项目卡片" /></a>
-  <a href="https://github.com/El1mir/BiliNote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El1mir&repo=BiliNote&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="BiliNote repository card / BiliNote 项目卡片" /></a>
+  <img width="844" src="./assets/project-grid.svg" alt="主要项目：KouriChat（Coredev）、BiliNote（维护者）、billion-context 与 dsh-better-display（贡献者）/ Selected projects and my role in each" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/ranxianglei/billion-context"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranxianglei&repo=billion-context&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="Billion Context repository card / Billion Context 项目卡片" /></a>
-  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aa2246740&repo=dsh-better-display&bg_color=0D1117&border_color=2E343B&hide_border=false&radius=5&title_color=7CFFCB&icon_color=00D4FF&text_color=CBD5E1" alt="DSH Better Display repository card / DSH Better Display 项目卡片" /></a>
+  <a href="https://github.com/KouriChat/KouriChat"><img src="https://img.shields.io/badge/KouriChat-%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91%20%C2%B7%20Coredev-7C3AED?style=flat-square&logo=github&logoColor=white" alt="KouriChat Coredev" /></a>
+  <a href="https://github.com/El1mir/BiliNote"><img src="https://img.shields.io/badge/BiliNote-%E7%BB%B4%E6%8A%A4%E8%80%85%20%C2%B7%20Maintainer-F472B6?style=flat-square&logo=github&logoColor=white" alt="BiliNote maintainer" /></a>
+  <a href="https://github.com/ranxianglei/billion-context"><img src="https://img.shields.io/badge/Billion%20Context-%E8%B4%A1%E7%8C%AE%E8%80%85%20%C2%B7%20Contributor-06B6D4?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Billion Context contributor" /></a>
+  <a href="https://github.com/aa2246740/dsh-better-display"><img src="https://img.shields.io/badge/DSH%20Better%20Display-%E8%B4%A1%E7%8C%AE%E8%80%85%20%C2%B7%20Contributor-8B7CFF?style=flat-square&logo=github&logoColor=white" alt="DSH Better Display contributor" /></a>
 </div>
-
-| 项目 · Project | 角色 · Role |
-| --- | --- |
-| [KouriChat](https://github.com/KouriChat/KouriChat) | Coredev · 核心开发 |
-| [BiliNote](https://github.com/El1mir/BiliNote) | Unofficial current repo · 非官方当前仓库 |
-| [Billion Context](https://github.com/ranxianglei/billion-context) | Contributor · 贡献者 |
-| [DSH Better Display](https://github.com/aa2246740/dsh-better-display) | Contributor · 贡献者 |
 
 ## 🧭 个人时间线 · Timeline
 
